@@ -1,2 +1,2 @@
 # Chess-Game
-Basic chess game with java
+Basic chess game with javascript
